@@ -1,2 +1,2 @@
 # Purdue_Travel+Leisure_Project
-Industrial Practicum Project
+Industrial Practicum Project [Analytics Consultant]
