@@ -1,2 +1,2 @@
-# Purdue_TandL_Project
+# Purdue_Travel+Leisure_Project
 Industrial Practicum Project
